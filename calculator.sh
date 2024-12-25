@@ -12,4 +12,10 @@ third line
 
 
 
+
 Rebase example for tes
+
+
+
+change in master 
+
